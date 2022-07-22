@@ -1,0 +1,12 @@
+{
+  frequencia: [
+    {
+      id: 1,
+      descricao: "Emerson"
+    },
+    {
+      id: 2,
+      descricao: "Cristiano"
+    }
+  ]
+}
