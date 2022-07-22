@@ -1,5 +1,5 @@
 {
-   "frequencia":[
+   "frequencia":"[
       {
          "id": 1,
          "foto":"renato.png",
@@ -35,5 +35,5 @@
          "ponto":"2022-07-15 17:13:40",
          "mensagem":"Passagem Liberada!"
       },
-      ]
+      ]"
 }
