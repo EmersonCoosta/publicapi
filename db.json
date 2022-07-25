@@ -16,7 +16,7 @@
          "nome":"mario de andrade",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            id: 2, 
+            "id": 2, 
             "mensagem":"Bloqueado. Consulte a Recepção"
          }   
       },
@@ -26,7 +26,7 @@
          "nome":"guilherme de padua",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            id: 2, 
+            "id": 2, 
             "mensagem":"Bloqueado. Consulte a Recepção"
          }   
       },
@@ -36,7 +36,7 @@
          "nome":"antonio fagundes",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            id: 2, 
+            "id": 2, 
             "mensagem":"Bloqueado. Consulte a Recepção"
          }   
       },
@@ -46,7 +46,7 @@
          "nome":"lima duarte",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            id: 2, 
+            "id": 2, 
             "mensagem":"Bloqueado. Consulte a Recepção"
          }   
       }
