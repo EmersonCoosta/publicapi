@@ -5,35 +5,50 @@
          "foto":"renato.png",
          "nome":"ranato teixeira",
          "ponto":"2022-07-15 17:13:40",
-         "mensagem":"Bloqueado. Consulte a Recepção"
+         "frequencia": {
+            "id": 2, 
+            "mensagem":"Bloqueado. Consulte a Recepção"
+         }         
       },
       {
          "id": 2,
          "foto":"cri.jpg",
          "nome":"mario de andrade",
          "ponto":"2022-07-15 17:13:40",
-         "mensagem":"Passagem Liberada!"
+          "frequencia": {
+            "id": 2, 
+            "mensagem":"Bloqueado. Consulte a Recepção"
+         }   
       },
       {
          "id": 3,
          "foto":"denzel.png",
          "nome":"guilherme de padua",
          "ponto":"2022-07-15 17:13:40",
-         "mensagem":"Bloqueado. Consulte a Recepção"
+          "frequencia": {
+            "id": 2, 
+            "mensagem":"Bloqueado. Consulte a Recepção"
+         }   
       },
       {
          "id": 4,
          "foto":"emerson.jpg",
          "nome":"antonio fagundes",
          "ponto":"2022-07-15 17:13:40",
-         "mensagem":"Passagem Liberada!"
+          "frequencia": {
+            "id": 2, 
+            "mensagem":"Bloqueado. Consulte a Recepção"
+         }   
       },
       {
          "id": 5,
          "foto":"falcao.png",
          "nome":"lima duarte",
          "ponto":"2022-07-15 17:13:40",
-         "mensagem":"Passagem Liberada!"
+          "frequencia": {
+            "id": 2, 
+            "mensagem":"Bloqueado. Consulte a Recepção"
+         }   
       }
    ]
 }
