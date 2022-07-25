@@ -6,7 +6,7 @@
          "nome":"ranato teixeira",
          "ponto":"2022-07-15 17:13:40",
          "frequencia": {
-            id: 2, 
+            "id": 2, 
             "mensagem":"Bloqueado. Consulte a Recepção"
          }         
       },
