@@ -16,7 +16,7 @@
          "nome":"mario de andrade",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            "id": 2, 
+            "id": 1, 
             "mensagem":"Passagem Liberada!"
          }   
       },
@@ -36,7 +36,7 @@
          "nome":"antonio fagundes",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            "id": 2, 
+            "id": 1, 
             "mensagem":"Passagem Liberada!"
          }   
       },
@@ -46,7 +46,7 @@
          "nome":"lima duarte",
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
-            "id": 2, 
+            "id": 1, 
             "mensagem":"Passagem Liberada!"
          }   
       }
