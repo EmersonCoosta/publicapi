@@ -17,7 +17,7 @@
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
             "id": 2, 
-            "mensagem":"Bloqueado. Consulte a Recepção"
+            "mensagem":"Passagem Liberada!"
          }   
       },
       {
@@ -37,7 +37,7 @@
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
             "id": 2, 
-            "mensagem":"Bloqueado. Consulte a Recepção"
+            "mensagem":"Passagem Liberada!"
          }   
       },
       {
@@ -47,7 +47,7 @@
          "ponto":"2022-07-15 17:13:40",
           "frequencia": {
             "id": 2, 
-            "mensagem":"Bloqueado. Consulte a Recepção"
+            "mensagem":"Passagem Liberada!"
          }   
       }
    ]
