@@ -51,7 +51,7 @@
          }   
       }
    ],
-   "mediaPessoaPorHora":[
+   "pessoaPorHorario":[
       {
          "dia": {
             "0h00": 10,
