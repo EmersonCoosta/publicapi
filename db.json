@@ -93,8 +93,8 @@
       ],
       "situacao": [
          {
-            "ativo": 29,
-            "inativo": 13
+            "ativos": 29,
+            "inativos": 13
          }
    ]
 }
